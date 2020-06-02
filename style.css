@@ -1,0 +1,48 @@
+head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} 
+
+body {
+    background-color: rgb(128, 121, 125);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header{
+
+    text-align: center;
+
+}
+
+h1{
+    color: black;
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    
+    
+}
+
+h2{
+    color: black;
+    font-size: medium;
+    margin-top: 20px;
+    margin-left: 50px;
+
+
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+
+  }
+
+h6{
+    background-color: seashell;
+}
+
